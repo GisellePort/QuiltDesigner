@@ -1,0 +1,15 @@
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\bin\Debug\net9.0\QuiltDesigner.Core.deps.json
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\bin\Debug\net9.0\QuiltDesigner.Core.dll
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\bin\Debug\net9.0\QuiltDesigner.Core.pdb
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\bin\Debug\net9.0\QuiltDesigner.Shared.dll
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\bin\Debug\net9.0\QuiltDesigner.Shared.pdb
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDesigner.Core.csproj.AssemblyReference.cache
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDesigner.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDesigner.Core.AssemblyInfoInputs.cache
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDesigner.Core.AssemblyInfo.cs
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDesigner.Core.csproj.CoreCompileInputs.cache
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDes.1AA4CC9E.Up2Date
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDesigner.Core.dll
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\refint\QuiltDesigner.Core.dll
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\QuiltDesigner.Core.pdb
+C:\Users\aroww\Desktop\Quilt\QuiltDesigner.Client\QuiltDesigner.Core\obj\Debug\net9.0\ref\QuiltDesigner.Core.dll

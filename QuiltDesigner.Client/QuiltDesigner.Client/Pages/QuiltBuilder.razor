@@ -1,0 +1,129 @@
+﻿@page "/quiltbuilder"
+@using QuiltDesigner.Shared.Models
+@using QuiltDesigner.Core.Services
+@using Microsoft.AspNetCore.Components.Forms
+@inject FabricService FabricService
+
+<h3>Quilt Builder</h3>
+
+<p>Select quilt size (blocks wide × blocks tall):</p>
+<div style="margin-bottom:10px;">
+    <label>Width (blocks): </label>
+    <input type="number" min="1" @bind="width" />
+</div>
+<div style="margin-bottom:10px;">
+    <label>Height (blocks): </label>
+    <input type="number" min="1" @bind="height" />
+</div>
+
+<button @onclick="GenerateGrid">Generate Layout</button>
+
+<hr />
+
+<h4>Uploaded Fabrics</h4>
+@if (fabricList.Count == 0)
+{
+    <p>No fabrics uploaded yet. Upload in Fabric Manager first.</p>
+}
+else
+{
+    <div style="display:flex; gap:10px; margin-bottom:15px;">
+        @foreach (var fabric in fabricList)
+        {
+            <img src="@fabric.ImageDataUrl" width="50" height="50" style="object-fit:cover; border:1px solid #333; cursor:pointer;"
+                 @onclick="() => SelectFabric(fabric)" title="@fabric.Name" />
+        }
+    </div>
+}
+
+@if (grid != null)
+{
+    <h4>Quilt Layout</h4>
+    <div style="display:grid; grid-template-columns:@($"repeat({width}, 50px)") ; gap:2px;">
+        @for (int r = 0; r < height; r++)
+        {
+            @for (int c = 0; c < width; c++)
+            {
+                var row = r;
+                var col = c;
+                <div style="@GetBlockStyle(row, col)" @onclick="() => AssignFabricSafe(row, col)"></div>
+            }
+        }
+
+    </div>
+}
+
+@if (selectedFabric == null)
+{
+    <p style="color:red;">Select a fabric before clicking a block!</p>
+}
+
+@code {
+    private int width = 5;
+    private int height = 7;
+
+    // The grid stores which fabric is in each block
+    private Fabric[,]? grid; // nullable to fix compiler warnings
+
+    // List of fabrics
+    private List<Fabric> fabricList = new();
+
+    // Currently selected fabric
+    private Fabric? selectedFabric; // nullable to fix compiler warnings
+
+    protected override void OnInitialized()
+    {
+        // Load fabrics from FabricService
+        fabricList = FabricService.GetAllFabrics();
+    }
+
+    
+    private void GenerateGrid()
+    {
+        grid = new Fabric[height, width];
+
+        // Fill every cell with an empty Fabric to avoid null issues
+        for (int r = 0; r < height; r++)
+        {
+            for (int c = 0; c < width; c++)
+            {
+                grid[r, c] = new Fabric(); // default empty fabric
+            }
+        }
+    }
+
+
+    private void SelectFabric(Fabric fabric)
+    {
+        selectedFabric = fabric;
+    }
+
+    private void AssignFabricSafe(int row, int col)
+    {
+        if (grid == null) return;
+        if (selectedFabric == null) return;
+
+        // Assign a new Fabric instance for safety
+        grid[row, col] = new Fabric
+        {
+            Id = selectedFabric.Id,
+            Name = selectedFabric.Name,
+            ImageDataUrl = selectedFabric.ImageDataUrl,
+            Notes = selectedFabric.Notes
+        };
+    }
+
+    // Returns the correct style for each block
+    private string GetBlockStyle(int row, int col)
+    {
+        if (grid == null)
+            return "width:50px; height:50px; border:1px solid #333; background-color:#fff; cursor:pointer;";
+
+        var fabric = grid[row, col];
+
+        if (fabric == null || string.IsNullOrEmpty(fabric.ImageDataUrl))
+            return "width:50px; height:50px; border:1px solid #333; background-color:#fff; cursor:pointer;";
+
+        return $"width:50px; height:50px; border:1px solid #333; background-image:url('{fabric.ImageDataUrl}'); background-size:cover; background-position:center; cursor:pointer;";
+    }
+}

@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.client\\pages\\quiltbuilder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|solutionrelative:quiltdesigner.client\\pages\\quiltbuilder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901EEF09-CB8E-4AE0-BE6D-A904B22E5A93}|QuiltDesigner.Core\\QuiltDesigner.Core.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.core\\services\\fabricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EEF09-CB8E-4AE0-BE6D-A904B22E5A93}|QuiltDesigner.Core\\QuiltDesigner.Core.csproj|solutionrelative:quiltdesigner.core\\services\\fabricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.client\\pages\\patterns.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|solutionrelative:quiltdesigner.client\\pages\\patterns.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|solutionrelative:quiltdesigner.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901EEF09-CB8E-4AE0-BE6D-A904B22E5A93}|QuiltDesigner.Core\\QuiltDesigner.Core.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.core\\services\\patternservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EEF09-CB8E-4AE0-BE6D-A904B22E5A93}|QuiltDesigner.Core\\QuiltDesigner.Core.csproj|solutionrelative:quiltdesigner.core\\services\\patternservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|solutionrelative:quiltdesigner.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.client\\pages\\fabrics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBBC301-1A85-4A58-8B87-137C01D04E6E}|QuiltDesigner.Client\\QuiltDesigner.Client.csproj|solutionrelative:quiltdesigner.client\\pages\\fabrics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.shared\\models\\fabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|solutionrelative:quiltdesigner.shared\\models\\fabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.shared\\models\\pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|solutionrelative:quiltdesigner.shared\\models\\pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.shared\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|solutionrelative:quiltdesigner.shared\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.shared\\models\\blocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|solutionrelative:quiltdesigner.shared\\models\\blocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901EEF09-CB8E-4AE0-BE6D-A904B22E5A93}|QuiltDesigner.Core\\QuiltDesigner.Core.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901EEF09-CB8E-4AE0-BE6D-A904B22E5A93}|QuiltDesigner.Core\\QuiltDesigner.Core.csproj|solutionrelative:quiltdesigner.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|c:\\users\\aroww\\desktop\\quilt\\quiltdesigner.client\\quiltdesigner.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F2CFA0-6BAF-4B92-A7ED-B3E5A88C801D}|QuiltDesigner.Shared\\QuiltDesigner.Shared.csproj|solutionrelative:quiltdesigner.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuiltBuilder.razor",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Pages\\QuiltBuilder.razor",
+              "RelativeDocumentMoniker": "QuiltDesigner.Client\\Pages\\QuiltBuilder.razor",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Pages\\QuiltBuilder.razor",
+              "RelativeToolTip": "QuiltDesigner.Client\\Pages\\QuiltBuilder.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAIAxwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T07:12:16.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patterns.razor",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Pages\\Patterns.razor",
+              "RelativeDocumentMoniker": "QuiltDesigner.Client\\Pages\\Patterns.razor",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Pages\\Patterns.razor",
+              "RelativeToolTip": "QuiltDesigner.Client\\Pages\\Patterns.razor",
+              "ViewState": "AgIAABoAAAAAAAAAAIAxwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T07:10:55.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Program.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Program.cs",
+              "RelativeToolTip": "QuiltDesigner.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:07:16.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "QuiltDesigner.Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "QuiltDesigner.Client\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T07:01:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fabrics.razor",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Pages\\Fabrics.razor",
+              "RelativeDocumentMoniker": "QuiltDesigner.Client\\Pages\\Fabrics.razor",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Client\\Pages\\Fabrics.razor",
+              "RelativeToolTip": "QuiltDesigner.Client\\Pages\\Fabrics.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T07:00:20.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatternService.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Core\\Services\\PatternService.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Core\\Services\\PatternService.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Core\\Services\\PatternService.cs",
+              "RelativeToolTip": "QuiltDesigner.Core\\Services\\PatternService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:58:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FabricService.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Core\\Services\\FabricService.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Core\\Services\\FabricService.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Core\\Services\\FabricService.cs",
+              "RelativeToolTip": "QuiltDesigner.Core\\Services\\FabricService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:58:22.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fabric.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\Fabric.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Shared\\Models\\Fabric.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\Fabric.cs",
+              "RelativeToolTip": "QuiltDesigner.Shared\\Models\\Fabric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:05:24.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\Pattern.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Shared\\Models\\Pattern.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\Pattern.cs",
+              "RelativeToolTip": "QuiltDesigner.Shared\\Models\\Pattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:04:42.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\Block.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Shared\\Models\\Block.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\Block.cs",
+              "RelativeToolTip": "QuiltDesigner.Shared\\Models\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:04:03.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlockType.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\BlockType.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Shared\\Models\\BlockType.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Models\\BlockType.cs",
+              "RelativeToolTip": "QuiltDesigner.Shared\\Models\\BlockType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:03:12.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Core\\Class1.cs",
+              "RelativeToolTip": "QuiltDesigner.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:01:26.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "QuiltDesigner.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\aroww\\Desktop\\Quilt\\QuiltDesigner.Client\\QuiltDesigner.Shared\\Class1.cs",
+              "RelativeToolTip": "QuiltDesigner.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:00:58.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
