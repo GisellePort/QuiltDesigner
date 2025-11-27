@@ -51,9 +51,9 @@ Future Enhancements:
 - Export quilt designs as images.
 - Eraser tool & Clear All feature.
 
-- Fabriuc Manager
-- <img width="613" height="463" alt="Screenshot 2025-11-27 235838" src="https://github.com/user-attachments/assets/0deb4c87-eaec-40f7-a5c3-e18cd04b67cd" />
+  Fabriuc Manager
+  <img width="613" height="463" alt="Screenshot 2025-11-27 235838" src="https://github.com/user-attachments/assets/0deb4c87-eaec-40f7-a5c3-e18cd04b67cd" />
 
-- Quilt Builder
-- <img width="612" height="659" alt="Screenshot 2025-11-27 235940" src="https://github.com/user-attachments/assets/2b696281-a2f1-4e96-b297-d93a29e09585" />
+  Quilt Builder
+  <img width="612" height="659" alt="Screenshot 2025-11-27 235940" src="https://github.com/user-attachments/assets/2b696281-a2f1-4e96-b297-d93a29e09585" />
 
