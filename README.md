@@ -40,9 +40,9 @@ Usage:
 
 Project Structure
 QuiltDesigner/
-├─ QuiltDesigner.Client/   # Blazor WebAssembly front-end
-├─ QuiltDesigner.Core/     # Application services (FabricService, PatternService)
-├─ QuiltDesigner.Shared/   # Shared models (Fabric, Pattern, Block)
+-- QuiltDesigner.Client/   # Blazor WebAssembly front-end
+-- QuiltDesigner.Core/     # Application services (FabricService, PatternService)
+-- QuiltDesigner.Shared/   # Shared models (Fabric, Pattern, Block)
 
 Future Enhancements:
 - Support for custom quilt patterns (triangles, strips, etc.).
